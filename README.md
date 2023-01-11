@@ -34,7 +34,7 @@ If using `Visual Studio 2022` :
 or 
 
 ```
-$ git clone https://github.com/xenorivai/PathTracer.git
+$ git clone --recurse-submodules https://github.com/xenorivai/PathTracer.git
 $ mkdir build
 $ mkdir bin
 $ cd build
