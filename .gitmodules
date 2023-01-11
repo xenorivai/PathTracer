@@ -1,0 +1,6 @@
+[submodule "include/ext/glm"]
+	path = include/ext/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "include/ext/fmt"]
+	path = include/ext/fmt
+	url = https://github.com/fmtlib/fmt.git
